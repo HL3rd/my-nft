@@ -1,0 +1,12 @@
+{
+  "attributes" : [ {
+    "trait_type" : "Type",
+    "value" : "Logo"
+  }, {
+    "trait_type" : "Industry",
+    "value" : "Marketing"
+  } ],
+  "description" : "Untitled Assembly is a media agency specializing in short-form video content for business creators.",
+  "image" : "https://gateway.pinata.cloud/ipfs/QmXJBdLQXpJeyWKfCARidq6US6HbuV39HyQAoTGw13Tbqa",
+  "name" : "0x86"
+}
